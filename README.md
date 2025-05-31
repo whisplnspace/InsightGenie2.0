@@ -126,11 +126,6 @@ Open a PR or start a discussion in the Issues tab.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🌟 Author
 
